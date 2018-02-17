@@ -5,3 +5,9 @@ C:\Users\WolfAlpha1\source\repos\JamesWolfLab3 GranolaBar\JamesWolfLab3 GranolaB
 C:\Users\WolfAlpha1\source\repos\JamesWolfLab3 GranolaBar\JamesWolfLab3 GranolaBar\bin\Debug\JamesWolfLab3 GranolaBar.pdb
 C:\Users\WolfAlpha1\source\repos\JamesWolfLab3 GranolaBar\JamesWolfLab3 GranolaBar\obj\Debug\JamesWolfLab3 GranolaBar.exe
 C:\Users\WolfAlpha1\source\repos\JamesWolfLab3 GranolaBar\JamesWolfLab3 GranolaBar\obj\Debug\JamesWolfLab3 GranolaBar.pdb
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\bin\Debug\JamesWolfLab3 GranolaBar.exe.config
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\obj\Debug\JamesWolfLab3 GranolaBar.exe
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\obj\Debug\JamesWolfLab3 GranolaBar.pdb
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\bin\Debug\JamesWolfLab3 GranolaBar.exe
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\bin\Debug\JamesWolfLab3 GranolaBar.pdb
+C:\Users\brand\Downloads\VS Code\james code\midterm\JamesWolfLab3 GranolaBar\obj\Debug\JamesWolfLab3 GranolaBar.csprojResolveAssemblyReference.cache
