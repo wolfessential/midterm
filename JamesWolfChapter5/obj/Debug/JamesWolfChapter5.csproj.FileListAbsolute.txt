@@ -1,0 +1,10 @@
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\bin\Debug\JamesWolfChapter5.exe.config
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\bin\Debug\JamesWolfChapter5.exe
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\bin\Debug\JamesWolfChapter5.pdb
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.csprojResolveAssemblyReference.cache
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.AreaCalculator.resources
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.Properties.Resources.resources
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.csproj.GenerateResource.Cache
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.csproj.CoreCompileInputs.cache
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.exe
+C:\Users\WolfAlpha1\source\repos\JamesWolfChapter5\JamesWolfChapter5\obj\Debug\JamesWolfChapter5.pdb
