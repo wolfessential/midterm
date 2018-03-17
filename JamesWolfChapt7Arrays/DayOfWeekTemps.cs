@@ -35,6 +35,29 @@ namespace JamesWolfChapt7Arrays
         {
             return weekTemps[0];
         }
+
+        public int GetAverageTemp()
+        {
+            int totaler = 0;
+            foreach(int temp in WeekTemps)
+            {
+                totaler += temp;
+            }
+            return totaler / WeekTemps.Length;
+        }
+
+        public int GetAveWithoutLowest()
+        {
+            int totaler = 0;
+            int lowT = weekTemps[0];
+            
+            foreach (int temp in WeekTemps)
+            {
+                totaler += temp;
+            }
+            int aveT = (totaler / WeekTemps.Length);
+            return aveT - lowT;
+        }
     }
     
 

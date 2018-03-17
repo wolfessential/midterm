@@ -190,7 +190,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(482, 75);
             this.label9.TabIndex = 16;
-            this.label9.Text = "Enter in a tempature and see how manys were under that tempature.";
+            this.label9.Text = "Enter in a tempature and see how many days were under that tempature.";
             // 
             // groupBox1
             // 
@@ -239,6 +239,7 @@
             this.LowestCalc.TabIndex = 19;
             this.LowestCalc.Text = "Display Lowest Temp";
             this.LowestCalc.UseVisualStyleBackColor = true;
+            this.LowestCalc.Click += new System.EventHandler(this.LowestCalc_Click);
             // 
             // AveCalc
             // 
@@ -248,6 +249,7 @@
             this.AveCalc.TabIndex = 20;
             this.AveCalc.Text = "Display Average Temp";
             this.AveCalc.UseVisualStyleBackColor = true;
+            this.AveCalc.Click += new System.EventHandler(this.AveCalc_Click);
             // 
             // AveWithOutLCalc
             // 
@@ -257,6 +259,7 @@
             this.AveWithOutLCalc.TabIndex = 21;
             this.AveWithOutLCalc.Text = "Display Average excluding Lowest Temp";
             this.AveWithOutLCalc.UseVisualStyleBackColor = true;
+            this.AveWithOutLCalc.Click += new System.EventHandler(this.AveWithOutLCalc_Click);
             // 
             // OutPutDisplayCalc
             // 
