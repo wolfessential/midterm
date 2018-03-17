@@ -8,3 +8,11 @@ c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj
 c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csproj.CoreCompileInputs.cache
 c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.exe
 c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.pdb
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.exe.config
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.exe
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.pdb
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.CalculateTemps.resources
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.Properties.Resources.resources
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csproj.GenerateResource.Cache
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.exe
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.pdb
