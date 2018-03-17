@@ -6,6 +6,7 @@ namespace JamesWolfChapt7Arrays
     {
         public int[] weekTemps;
 
+
         public DayOfWeekTemps()
         {
 
@@ -35,7 +36,7 @@ namespace JamesWolfChapt7Arrays
         public int GetAverageTemp()
         {
             int totaler = 0;
-            foreach(int temp in WeekTemps)
+            foreach (int temp in WeekTemps)
             {
                 totaler += temp;
             }
@@ -46,7 +47,7 @@ namespace JamesWolfChapt7Arrays
         {
             int totaler = 0;
             int lowT = weekTemps[0];
-            
+
             foreach (int temp in WeekTemps)
             {
                 totaler += temp;
@@ -54,6 +55,35 @@ namespace JamesWolfChapt7Arrays
             int min = weekTemps.Min();
             int aveT = ((totaler - min) / (WeekTemps.Length - 1));
             return aveT;
+        }
+
+
+
+    }
+    class UserEnteredTempDays
+    {
+
+
+        public int numberOfDays = 0;
+        public int[] weekTemps;
+
+        public UserEnteredTempDays()
+        {
+
+        }
+        public int GetNumUnderTemp(int utemp)
+        {
+            int userTemp = utemp;
+            for (int x = 0; x < 7; x++)
+            {
+                if (weekTemps[x] < userTemp)
+                {
+                    numberOfDays++;
+                }
+            }
+            return numberOfDays;
+
+
         }
     }
 }

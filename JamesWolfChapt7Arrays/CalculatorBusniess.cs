@@ -12,7 +12,8 @@ namespace JamesWolfChapt7Arrays
         public int lowest;
         public int numberDaysUnderU;
         DayOfWeekTemps currentTemps;
-
+        UserEnteredTempDays usTemp;
+        
         public int[] WeeksTemperatures
         {
             get
@@ -98,6 +99,12 @@ namespace JamesWolfChapt7Arrays
         {
             currentTemps = new DayOfWeekTemps(temp1, temp2, temp3, temp4, temp5, temp6, temp7);
             return currentTemps.GetAveWithoutLowest();
+        }
+
+        public int DetermineNumDaysUnderTemp(int uTemp)
+        {
+            usTemp = new UserEnteredTempDays(uTemp);
+            return usTemp.GetNumUnderTemp();
         }
     } 
 }

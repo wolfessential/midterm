@@ -136,8 +136,8 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(484, 92);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Welcome! Enter in the tempatures for each day of the week. Then choose which calc" +
-    "ulation you would like to see.";
+            this.label3.Text = "Welcome! Enter in the temperatures for each day of the week. Then choose which ca" +
+    "lculation you would like to see.";
             // 
             // label4
             // 
@@ -186,11 +186,12 @@
             // 
             // label9
             // 
-            this.label9.Location = new System.Drawing.Point(8, 80);
+            this.label9.Location = new System.Drawing.Point(6, 45);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(482, 75);
+            this.label9.Size = new System.Drawing.Size(510, 110);
             this.label9.TabIndex = 16;
-            this.label9.Text = "Enter in a tempature and see how many days were under that tempature.";
+            this.label9.Text = "After you\'ve entered vaules for each day of the week, enter in a temperature in t" +
+    "he box bellow and see how many days were under that temperature.";
             // 
             // groupBox1
             // 
@@ -203,7 +204,7 @@
             this.groupBox1.Size = new System.Drawing.Size(559, 575);
             this.groupBox1.TabIndex = 17;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Number of Days under a tempature";
+            this.groupBox1.Text = "Number of Days under a temperature";
             // 
             // NumDayUnderOutput
             // 
@@ -220,6 +221,7 @@
             this.button1.TabIndex = 17;
             this.button1.Text = "Calculate";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // HighestCalc
             // 
