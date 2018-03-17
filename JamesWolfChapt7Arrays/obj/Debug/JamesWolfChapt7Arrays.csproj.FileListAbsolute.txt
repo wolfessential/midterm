@@ -1,0 +1,10 @@
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.exe.config
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.exe
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.pdb
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csprojResolveAssemblyReference.cache
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.CalculateTemps.resources
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.Properties.Resources.resources
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csproj.GenerateResource.Cache
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csproj.CoreCompileInputs.cache
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.exe
+c:\users\wolfalpha1\source\repos\JamesWolfChapt7Arrays\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.pdb
