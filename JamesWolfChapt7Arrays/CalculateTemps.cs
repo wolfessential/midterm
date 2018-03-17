@@ -60,9 +60,10 @@ namespace JamesWolfChapt7Arrays
                                                             Convert.ToInt32(SaturdayTextBox.Text))));
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void DaysUnderTemp_Click(object sender, EventArgs e)
         {
-
+            OutPutDisplayCalc.Text = string.Format("The days under the provided input are: {0}", (cb.DetermineNumDaysUnderTemp(
+                                                            )));
         }
     }
 }

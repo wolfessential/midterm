@@ -6,7 +6,6 @@ namespace JamesWolfChapt7Arrays
     {
         public int[] weekTemps;
 
-
         public DayOfWeekTemps()
         {
 
@@ -56,14 +55,9 @@ namespace JamesWolfChapt7Arrays
             int aveT = ((totaler - min) / (WeekTemps.Length - 1));
             return aveT;
         }
-
-
-
     }
     class UserEnteredTempDays
     {
-
-
         public int numberOfDays = 0;
         public int[] weekTemps;
 
@@ -82,8 +76,6 @@ namespace JamesWolfChapt7Arrays
                 }
             }
             return numberOfDays;
-
-
         }
     }
 }
