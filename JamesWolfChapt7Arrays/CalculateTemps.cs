@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace JamesWolfChapt7Arrays
@@ -29,9 +22,6 @@ namespace JamesWolfChapt7Arrays
                                                   Convert.ToInt32(ThursdayTextBox.Text), 
                                                   Convert.ToInt32(FridayTextBox.Text), 
                                                   Convert.ToInt32(SaturdayTextBox.Text))));
-
-            
-
         }
 
         private void LowestCalc_Click(object sender, EventArgs e)

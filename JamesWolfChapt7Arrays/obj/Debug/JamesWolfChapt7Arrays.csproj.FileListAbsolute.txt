@@ -16,3 +16,4 @@ C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7A
 C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csproj.GenerateResource.Cache
 C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.exe
 C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\bin\Debug\JamesWolfChapt7Arrays.pdb
+C:\Users\brand\Downloads\github\JamesWolfChapt7Arrays\obj\Debug\JamesWolfChapt7Arrays.csprojResolveAssemblyReference.cache

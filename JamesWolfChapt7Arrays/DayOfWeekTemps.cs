@@ -1,15 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace JamesWolfChapt7Arrays
 {
     class DayOfWeekTemps
     {
         public int[] weekTemps;
-
 
         public DayOfWeekTemps()
         {
@@ -21,6 +16,7 @@ namespace JamesWolfChapt7Arrays
             weekTemps = new int[] { temp1, temp2, temp3, temp4, temp5, temp6, temp7 };
             Array.Sort(weekTemps);
         }
+
         public int[] WeekTemps
         {
             get { return weekTemps; }
@@ -55,12 +51,10 @@ namespace JamesWolfChapt7Arrays
             {
                 totaler += temp;
             }
-            int aveT = (totaler / WeekTemps.Length);
-            return aveT - lowT;
+            int min = weekTemps.Min();
+            int aveT = ((totaler - min) / (WeekTemps.Length - 1));
+            return aveT;
         }
     }
-    
-
-    
 }
 

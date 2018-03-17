@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JamesWolfChapt7Arrays
 {
@@ -33,8 +29,6 @@ namespace JamesWolfChapt7Arrays
             }
         }
 
-        
-
         public int AverageExLowest
         {
             set
@@ -46,9 +40,6 @@ namespace JamesWolfChapt7Arrays
                 return averageExcludingLowest;
             }
         }
-
-
-       
 
         public int ReturnLowest
         {
@@ -78,15 +69,12 @@ namespace JamesWolfChapt7Arrays
 
         }
         
-
-        public CalculatorBusniess (int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
+        public CalculatorBusniess(int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
         {
             weeksTemps = new int[] { temp1, temp2, temp3, temp4, temp5, temp6, temp7 };
             Array.Sort(weeksTemps);
         }
 
-
-        
         public int DetermineLowest(int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
         {
             currentTemps = new DayOfWeekTemps(temp1, temp2, temp3, temp4, temp5, temp6, temp7);
@@ -97,9 +85,7 @@ namespace JamesWolfChapt7Arrays
         public int DetermineHighest(int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
         {
             currentTemps = new DayOfWeekTemps(temp1, temp2, temp3, temp4, temp5, temp6, temp7);
-
             return currentTemps.GetHighestTemp();
-
         }
 
         public int DetermineAverage(int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
@@ -111,9 +97,7 @@ namespace JamesWolfChapt7Arrays
         public int DetermineAverageExcludingLowest(int temp1, int temp2, int temp3, int temp4, int temp5, int temp6, int temp7)
         {
             currentTemps = new DayOfWeekTemps(temp1, temp2, temp3, temp4, temp5, temp6, temp7);
-            return currentTemps.GetAverageTemp();
+            return currentTemps.GetAveWithoutLowest();
         }
-
-       
     } 
 }
