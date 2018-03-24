@@ -1,0 +1,7 @@
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\bin\Debug\JamesWolfExam1.exe.config
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\bin\Debug\JamesWolfExam1.exe
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\bin\Debug\JamesWolfExam1.pdb
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\obj\Debug\JamesWolfExam1.csprojResolveAssemblyReference.cache
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\obj\Debug\JamesWolfExam1.csproj.CoreCompileInputs.cache
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\obj\Debug\JamesWolfExam1.exe
+C:\Users\WolfAlpha1\source\repos\JamesWolfExam1\JamesWolfExam1\obj\Debug\JamesWolfExam1.pdb
