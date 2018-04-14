@@ -1,0 +1,10 @@
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\bin\Debug\JamesWolfLab8ExcHand.exe.config
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\bin\Debug\JamesWolfLab8ExcHand.exe
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\bin\Debug\JamesWolfLab8ExcHand.pdb
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.csprojResolveAssemblyReference.cache
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.Properties.Resources.resources
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.csproj.GenerateResource.cache
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.csproj.CoreCompileInputs.cache
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.exe
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.pdb
+c:\users\wolfalpha1\source\repos\JamesWolfLab8ExcHand\JamesWolfLab8ExcHand\obj\Debug\JamesWolfLab8ExcHand.Calculator.resources
