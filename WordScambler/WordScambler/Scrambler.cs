@@ -53,28 +53,35 @@ namespace WordScambler
         }
 
 
-        //Where can I put this button?? I have the code to compare an input 
-        //against the word in the word list but I don't know where to put it so 
-        //I can compare when the user clicks the submit button..
-        //CODE FOR COMAPRE.. Do I make this a method somewhere maybe in the
-        //ScrambleClass? Or its own class?
-        //CODE:
-        //string UserGuess;
-        //UserGuess = TxtInput.Text.ToString();
-        //if (UserGuess.ToLower() == strWordList)
-        //{MessageBox.Show("You are correct!!", MessageBoxButtons.OK);
-        //TxtInput.Clear();
-        //ScrambleEasy();
-        //}
-        //else
-        //{MessageBox.Show("Wrong, try again!", MessageBoxButtons.OK);
-        //TxtInput.Clear();
-        //}
-
         private void BtnInput_Click(object sender, EventArgs e)
         {
             string UserGuess;
             UserGuess = TxtInput.Text.ToString();
+            bool value = cb.CompareWord(UserGuess);
+
+            if(value == true)
+            {
+                MessageBox.Show("You are correct!!", "Correct", MessageBoxButtons.OK);
+                if (RbtEasy.Checked)
+                {
+                    LblWord.Text = cb.ScrambleEasy();
+                }
+
+                if (RbtMedium.Checked)
+                {
+                    LblWord.Text = cb.ScrambleMedium();
+                }
+
+                if (RbtHard.Checked)
+                {
+                    LblWord.Text = cb.ScrambleHard();
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Wrong, try again!", "Incorrect", MessageBoxButtons.OK);
+            }
 
         }
     }
