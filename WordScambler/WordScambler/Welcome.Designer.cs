@@ -1,6 +1,6 @@
 ﻿namespace WordScambler
 {
-    partial class Welcome
+    partial class Srambler
     {
         /// <summary>
         /// Required designer variable.
